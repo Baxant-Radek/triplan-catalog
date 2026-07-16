@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": 14,
+  "updatedAt": "2026-07-16",
+  "nextRaceID": 23,
+  "races": [
+    {
+      "id": 20,
+      "name": "Moraviaman",
+      "date": "2026-06-20",
+      "distance": "ironman",
+      "organizer": "other",
+      "location": "Otrokovice",
+      "seriesID": "moraviaman"
+    },
+    {
+      "id": 21,
+      "name": "Moraviaman - M50",
+      "date": "2026-06-20",
+      "distance": "other",
+      "customSwimMeters": 900,
+      "customBikeKm": 36.0,
+      "customRunKm": 10.4,
+      "organizer": "other",
+      "location": "Otrokovice",
+      "seriesID": "moraviaman-m50"
+    },
+    {
+      "id": 11,
+      "name": "Mallorca Alcúdia 70.3",
+      "date": "2027-05-08",
+      "distance": "half",
+      "organizer": "ironman"
+    },
+    {
+      "id": 12,
+      "name": "Šamorín - Standard",
+      "date": "2027-05-22",
+      "distance": "olympic",
+      "organizer": "challenge",
+      "location": "SK - Šamorín",
+      "seriesID": "samorin-standard"
+    },
+    {
+      "id": 16,
+      "name": "Šamorín - Sprint",
+      "date": "2027-05-22",
+      "distance": "sprint",
+      "organizer": "challenge",
+      "location": "SK - Šamorín",
+      "seriesID": "samorin-sprint"
+    },
+    {
+      "id": 17,
+      "name": "Šamorín - Open 100",
+      "date": "2027-05-23",
+      "distance": "half",
+      "organizer": "challenge",
+      "location": "SK - Šamorín",
+      "seriesID": "samorin-open100"
+    },
+    {
+      "id": 13,
+      "name": "Czechman",
+      "date": "2027-06-05",
+      "distance": "half",
+      "organizer": "other",
+      "location": "Pardubice",
+      "seriesID": "czechman"
+    },
+    {
+      "id": 14,
+      "name": "Czechman - Short",
+      "date": "2027-06-06",
+      "distance": "other",
+      "customSwimMeters": 600,
+      "customBikeKm": 26.0,
+      "customRunKm": 6.0,
+      "organizer": "other",
+      "location": "Pardubice",
+      "seriesID": "czechman-short"
+    },
+    {
+      "id": 15,
+      "name": "Roth",
+      "date": "2027-07-04",
+      "distance": "ironman",
+      "organizer": "challenge",
+      "location": "DE - Roth"
+    },
+    {
+      "id": 18,
+      "name": "Zell am See - Kaprun",
+      "date": "2027-08-29",
+      "distance": "half",
+      "organizer": "ironman"
+    },
+    {
+      "id": 19,
+      "name": "Winterman",
+      "date": "2027-10-10",
+      "distance": "ironman",
+      "organizer": "other"
+    }
+  ]
+}
