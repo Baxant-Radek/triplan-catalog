@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 14,
-  "updatedAt": "2026-07-16",
-  "nextRaceID": 23,
+  "catalogVersion": 15,
+  "updatedAt": "2026-07-17",
+  "nextRaceID": 79,
   "races": [
     {
       "id": 20,
@@ -26,11 +26,419 @@
       "seriesID": "moraviaman-m50"
     },
     {
+      "id": 23,
+      "name": "5150 Gdynia",
+      "date": "2026-07-19",
+      "distance": "olympic",
+      "organizer": "ironman",
+      "location": "PL - Gdynia",
+      "websiteURL": "https://www.ironman.com/races/5150-gdynia",
+      "seriesID": "gdynia-5150"
+    },
+    {
+      "id": 24,
+      "name": "70.3 Gdynia",
+      "date": "2026-07-19",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "PL - Gdynia",
+      "websiteURL": "https://www.ironman.com/races/im703-gdynia",
+      "seriesID": "gdynia-703"
+    },
+    {
+      "id": 25,
+      "name": "70.3 Krakow",
+      "date": "2026-08-02",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "PL - Krakow",
+      "websiteURL": "https://www.ironman.com/races/im703-krakow",
+      "seriesID": "krakow-703"
+    },
+    {
+      "id": 26,
+      "name": "4:18:4 Kalmar",
+      "date": "2026-08-12",
+      "distance": "other",
+      "customSwimMeters": 520,
+      "customBikeKm": 17.8,
+      "customRunKm": 4.0,
+      "organizer": "ironman",
+      "location": "SE - Kalmar",
+      "websiteURL": "https://www.ironman.com/races/4184-kalmar",
+      "seriesID": "kalmar-4184"
+    },
+    {
+      "id": 27,
+      "name": "4:18:4 Copenhagen",
+      "date": "2026-08-14",
+      "distance": "other",
+      "customSwimMeters": 401,
+      "customBikeKm": 18.0,
+      "customRunKm": 4.0,
+      "organizer": "ironman",
+      "location": "DK - Copenhagen",
+      "websiteURL": "https://www.ironman.com/races/4184-copenhagen",
+      "seriesID": "copenhagen-4184"
+    },
+    {
+      "id": 28,
+      "name": "Kalmar",
+      "date": "2026-08-15",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "SE - Kalmar",
+      "websiteURL": "https://www.ironman.com/races/im-kalmar",
+      "seriesID": "kalmar"
+    },
+    {
+      "id": 29,
+      "name": "70.3 Duisburg",
+      "date": "2026-08-16",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "DE - Duisburg",
+      "websiteURL": "https://www.ironman.com/races/im703-duisburg",
+      "seriesID": "duisburg-703"
+    },
+    {
+      "id": 30,
+      "name": "Leeds",
+      "date": "2026-08-16",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "UK - Leeds",
+      "websiteURL": "https://www.ironman.com/races/im-leeds",
+      "seriesID": "leeds"
+    },
+    {
+      "id": 31,
+      "name": "5150 Hradec Králové",
+      "date": "2026-08-16",
+      "distance": "olympic",
+      "organizer": "ironman",
+      "location": "Hradec Králové",
+      "websiteURL": "https://www.ironman.com/races/5150-hradec-kralove",
+      "seriesID": "hradec-5150"
+    },
+    {
+      "id": 32,
+      "name": "70.3 Hradec Králové",
+      "date": "2026-08-16",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "Hradec Králové",
+      "websiteURL": "https://www.ironman.com/races/im703-hradec-kralove",
+      "seriesID": "hradec-703"
+    },
+    {
+      "id": 33,
+      "name": "Copenhagen",
+      "date": "2026-08-16",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "DK - Copenhagen",
+      "websiteURL": "https://www.ironman.com/races/im-copenhagen",
+      "seriesID": "copenhagen"
+    },
+    {
+      "id": 34,
+      "name": "Tallinn",
+      "date": "2026-08-22",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "EE - Tallinn",
+      "websiteURL": "https://www.ironman.com/races/im-tallinn",
+      "seriesID": "tallinn"
+    },
+    {
+      "id": 35,
+      "name": "70.3 Vichy",
+      "date": "2026-08-23",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "FR - Vichy",
+      "websiteURL": "https://www.ironman.com/races/im703-vichy",
+      "seriesID": "vichy-703"
+    },
+    {
+      "id": 36,
+      "name": "70.3 Tallinn",
+      "date": "2026-08-23",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "EE - Tallinn",
+      "websiteURL": "https://www.ironman.com/races/im703-tallinn",
+      "seriesID": "tallinn-703"
+    },
+    {
+      "id": 37,
+      "name": "Vichy",
+      "date": "2026-08-23",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "FR - Vichy",
+      "websiteURL": "https://www.ironman.com/races/im-vichy",
+      "seriesID": "vichy"
+    },
+    {
+      "id": 38,
+      "name": "70.3 Leipzig",
+      "date": "2026-08-23",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "DE - Leipzig",
+      "websiteURL": "https://www.ironman.com/races/im703-leipzig",
+      "seriesID": "leipzig-703"
+    },
+    {
+      "id": 39,
+      "name": "70.3 Zell am See - Kaprun",
+      "date": "2026-08-30",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "AT - Zell am See",
+      "websiteURL": "https://www.ironman.com/races/im703-zell-am-see",
+      "seriesID": "zell-703"
+    },
+    {
+      "id": 40,
+      "name": "70.3 Poznan",
+      "date": "2026-08-30",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "PL - Poznan",
+      "websiteURL": "https://www.ironman.com/races/im703-poznan",
+      "seriesID": "poznan-703"
+    },
+    {
+      "id": 41,
+      "name": "5150 Poznan",
+      "date": "2026-08-30",
+      "distance": "olympic",
+      "organizer": "ironman",
+      "location": "PL - Poznan",
+      "websiteURL": "https://www.ironman.com/races/5150-poznan",
+      "seriesID": "poznan-5150"
+    },
+    {
+      "id": 42,
+      "name": "5150 Knokke - Heist",
+      "date": "2026-09-05",
+      "distance": "olympic",
+      "organizer": "ironman",
+      "location": "BE - Knokke-Heist",
+      "websiteURL": "https://www.ironman.com/races/5150-knokke-heist",
+      "seriesID": "knokke-5150"
+    },
+    {
+      "id": 43,
+      "name": "70.3 Baku",
+      "date": "2026-09-05",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "AZ - Baku",
+      "websiteURL": "https://www.ironman.com/races/im703-baku",
+      "seriesID": "baku-703"
+    },
+    {
+      "id": 44,
+      "name": "70.3 Knokke - Heist",
+      "date": "2026-09-06",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "BE - Knokke-Heist",
+      "websiteURL": "https://www.ironman.com/races/im703-knokke-heist",
+      "seriesID": "knokke-703"
+    },
+    {
+      "id": 45,
+      "name": "5150 Erkner",
+      "date": "2026-09-12",
+      "distance": "olympic",
+      "organizer": "ironman",
+      "location": "DE - Erkner",
+      "websiteURL": "https://www.ironman.com/races/5150-erkner",
+      "seriesID": "erkner-5150"
+    },
+    {
+      "id": 46,
+      "name": "Wales",
+      "date": "2026-09-13",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "UK - Pembrokeshire",
+      "websiteURL": "https://www.ironman.com/races/im-wales",
+      "seriesID": "wales"
+    },
+    {
+      "id": 47,
+      "name": "70.3 Erkner",
+      "date": "2026-09-13",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "DE - Erkner",
+      "websiteURL": "https://www.ironman.com/races/im703-erkner",
+      "seriesID": "erkner-703"
+    },
+    {
+      "id": 48,
+      "name": "70.3 Belgrade",
+      "date": "2026-09-13",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "RS - Belgrade",
+      "websiteURL": "https://www.ironman.com/races/im703-belgrade",
+      "seriesID": "belgrade-703"
+    },
+    {
+      "id": 49,
+      "name": "Italy Emilia Romagna",
+      "date": "2026-09-19",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "IT - Cervia",
+      "websiteURL": "https://www.ironman.com/races/im-emilia-romagna",
+      "seriesID": "emilia"
+    },
+    {
+      "id": 50,
+      "name": "5150 Cervia",
+      "date": "2026-09-20",
+      "distance": "olympic",
+      "organizer": "ironman",
+      "location": "IT - Cervia",
+      "websiteURL": "https://www.ironman.com/races/5150-cervia",
+      "seriesID": "cervia-5150"
+    },
+    {
+      "id": 51,
+      "name": "70.3 Emilia Romagna",
+      "date": "2026-09-20",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "IT - Cervia",
+      "websiteURL": "https://www.ironman.com/races/im703-emilia-romagna",
+      "seriesID": "emilia-703"
+    },
+    {
+      "id": 52,
+      "name": "70.3 Weymouth",
+      "date": "2026-09-20",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "UK - Weymouth",
+      "websiteURL": "https://www.ironman.com/races/im703-weymouth",
+      "seriesID": "weymouth-703"
+    },
+    {
+      "id": 53,
+      "name": "Calella-Barcelona",
+      "date": "2026-10-04",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "ES - Calella",
+      "websiteURL": "https://www.ironman.com/races/im-barcelona",
+      "seriesID": "calella"
+    },
+    {
+      "id": 54,
+      "name": "70.3 Versailles",
+      "date": "2026-10-11",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "FR - Versailles",
+      "websiteURL": "https://www.ironman.com/races/im703-versailles",
+      "seriesID": "versailles-703"
+    },
+    {
+      "id": 55,
+      "name": "70.3 Portugal-Cascais",
+      "date": "2026-10-17",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "PT - Cascais",
+      "websiteURL": "https://www.ironman.com/races/im703-cascais",
+      "seriesID": "cascais-703"
+    },
+    {
+      "id": 56,
+      "name": "70.3 Poreč",
+      "date": "2026-10-18",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "HR - Porec",
+      "websiteURL": "https://www.ironman.com/races/im703-croatia",
+      "seriesID": "porec-703"
+    },
+    {
+      "id": 57,
+      "name": "70.3 Málaga",
+      "date": "2026-10-18",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "ES - Málaga",
+      "websiteURL": "https://www.ironman.com/races/im703-malaga",
+      "seriesID": "malaga-703"
+    },
+    {
+      "id": 58,
+      "name": "70.3 Costa Navarino, Peloponnese, Greece",
+      "date": "2026-10-25",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "GR - Peloponnese",
+      "websiteURL": "https://www.ironman.com/races/im703-greece",
+      "seriesID": "peloponnese-703"
+    },
+    {
+      "id": 59,
+      "name": "70.3 Türkiye",
+      "date": "2026-11-01",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "TR - Belek",
+      "websiteURL": "https://www.ironman.com/races/im703-turkey",
+      "seriesID": "belek-703"
+    },
+    {
+      "id": 60,
+      "name": "70.3 Valencia",
+      "date": "2027-04-18",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "ES - Valencia",
+      "websiteURL": "https://www.ironman.com/races/im703-valencia",
+      "seriesID": "valencia-703"
+    },
+    {
+      "id": 61,
+      "name": "70.3 Venice-Jesolo",
+      "date": "2027-04-24",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "IT - Jesolo",
+      "websiteURL": "https://www.ironman.com/races/im703-venice-jesolo",
+      "seriesID": "jesolo-703"
+    },
+    {
       "id": 11,
-      "name": "Mallorca Alcúdia 70.3",
+      "name": "70.3 Alcúdia-Mallorca",
       "date": "2027-05-08",
       "distance": "half",
-      "organizer": "ironman"
+      "organizer": "ironman",
+      "location": "ES - Alcúdia",
+      "seriesID": "alcudia-703"
+    },
+    {
+      "id": 62,
+      "name": "Lanzarote",
+      "date": "2027-05-15",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "ES - Lanzarote",
+      "websiteURL": "https://www.ironman.com/races/im-lanzarote",
+      "seriesID": "lanzarote"
     },
     {
       "id": 12,
@@ -60,6 +468,26 @@
       "seriesID": "samorin-open100"
     },
     {
+      "id": 63,
+      "name": "70.3 St. Pölten",
+      "date": "2027-05-23",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "AT - St. Polten",
+      "websiteURL": "https://www.ironman.com/races/im703-st-poelten",
+      "seriesID": "polten-703"
+    },
+    {
+      "id": 64,
+      "name": "70.3 Alghero",
+      "date": "2027-05-30",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "IT - Alghero",
+      "websiteURL": "https://www.ironman.com/races/im703-alghero",
+      "seriesID": "alghero-703"
+    },
+    {
       "id": 13,
       "name": "Czechman",
       "date": "2027-06-05",
@@ -81,6 +509,96 @@
       "seriesID": "czechman-short"
     },
     {
+      "id": 65,
+      "name": "Hamburg",
+      "date": "2027-06-06",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "DE - Hamburg",
+      "websiteURL": "https://www.ironman.com/races/im-hamburg",
+      "seriesID": "hamburg"
+    },
+    {
+      "id": 66,
+      "name": "70.3 Tours Metropole - Loire Valley",
+      "date": "2027-06-06",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "FR - Tours",
+      "websiteURL": "https://www.ironman.com/races/im703-tours",
+      "seriesID": "tours-703"
+    },
+    {
+      "id": 67,
+      "name": "70.3 Switzerland",
+      "date": "2027-06-06",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "CH - Rapperswil-Jona",
+      "websiteURL": "https://www.ironman.com/races/im703-switzerland",
+      "seriesID": "switzerland-703"
+    },
+    {
+      "id": 68,
+      "name": "70.3 Bolton",
+      "date": "2027-06-06",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "UK - Bolton",
+      "websiteURL": "https://www.ironman.com/races/im703-bolton",
+      "seriesID": "bolton-703"
+    },
+    {
+      "id": 69,
+      "name": "Kaernten-Klagenfurt, Austria",
+      "date": "2027-06-13",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "AT - Klagenfurt",
+      "websiteURL": "https://www.ironman.com/races/im-austria",
+      "seriesID": "klagenfurt"
+    },
+    {
+      "id": 70,
+      "name": "70.3 Westfriesland",
+      "date": "2027-06-20",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "NL - Hoorn",
+      "websiteURL": "https://www.ironman.com/races/im703-westfriesland",
+      "seriesID": "westfriesland-703"
+    },
+    {
+      "id": 71,
+      "name": "Les Sables d Olonne-Vendee",
+      "date": "2027-06-27",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "FR - Les Sables d Ollonne",
+      "websiteURL": "https://www.ironman.com/races/im-les-sables-dolonne",
+      "seriesID": "lessables"
+    },
+    {
+      "id": 72,
+      "name": "70.3 Elsinore",
+      "date": "2027-06-27",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "DK - Elsinore",
+      "websiteURL": "https://www.ironman.com/races/im703-elsinore",
+      "seriesID": "elsinore-703"
+    },
+    {
+      "id": 73,
+      "name": "Frankfurt",
+      "date": "2027-06-27",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "DE - Frankfurt",
+      "websiteURL": "https://www.ironman.com/races/im-frankfurt",
+      "seriesID": "frankfurt"
+    },
+    {
       "id": 15,
       "name": "Roth",
       "date": "2027-07-04",
@@ -89,11 +607,63 @@
       "location": "DE - Roth"
     },
     {
+      "id": 74,
+      "name": "Switzerland Thun",
+      "date": "2027-07-04",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "CH - Thun",
+      "websiteURL": "https://www.ironman.com/races/im-switzerland",
+      "seriesID": "switzerland"
+    },
+    {
+      "id": 75,
+      "name": "70.3 Swansea",
+      "date": "2027-07-11",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "UK - Swansea Bay",
+      "websiteURL": "https://www.ironman.com/races/im703-swansea",
+      "seriesID": "swansea-703"
+    },
+    {
+      "id": 76,
+      "name": "70.3 Jonkoping",
+      "date": "2027-07-11",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "SE - Jonkoping",
+      "websiteURL": "https://www.ironman.com/races/im703-jonkoping",
+      "seriesID": "jonkoping-703"
+    },
+    {
+      "id": 77,
+      "name": "Vitoria-Gasteiz",
+      "date": "2027-07-11",
+      "distance": "ironman",
+      "organizer": "ironman",
+      "location": "ES - Vitoria-Gasteiz",
+      "websiteURL": "https://www.ironman.com/races/im-vitoria",
+      "seriesID": "vitoria"
+    },
+    {
+      "id": 78,
+      "name": "70.3 Vitoria-Gasteiz",
+      "date": "2027-07-11",
+      "distance": "half",
+      "organizer": "ironman",
+      "location": "ES - Vitoria-Gasteiz",
+      "websiteURL": "https://www.ironman.com/races/im703-vitoria",
+      "seriesID": "vitoria-703"
+    },
+    {
       "id": 18,
       "name": "Zell am See - Kaprun",
       "date": "2027-08-29",
       "distance": "half",
-      "organizer": "ironman"
+      "organizer": "ironman",
+      "location": "AT - Zell am See",
+      "seriesID": "zell-703"
     },
     {
       "id": 19,
