@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 16,
+  "catalogVersion": 17,
   "updatedAt": "2026-07-20",
-  "nextRaceID": 88,
+  "nextRaceID": 100,
   "races": [
     {
       "id": 20,
@@ -504,6 +504,32 @@
       "seriesID": "belek-703"
     },
     {
+      "id": 88,
+      "name": "Challenge Grand Canaria - 100",
+      "date": "2027-04-17",
+      "distance": "other",
+      "customSwimMeters": 2000,
+      "customBikeKm": 80.0,
+      "customRunKm": 18.0,
+      "organizer": "challenge",
+      "location": "ES - Gran Canaria",
+      "websiteURL": "https://challenge-grancanaria.com/en/",
+      "seriesID": "canaria-100"
+    },
+    {
+      "id": 89,
+      "name": "Challenge Grand Canaria - 50",
+      "date": "2027-04-17",
+      "distance": "other",
+      "customSwimMeters": 1000,
+      "customBikeKm": 40.0,
+      "customRunKm": 9.0,
+      "organizer": "challenge",
+      "location": "ES - Gran Canaria",
+      "websiteURL": "https://challenge-grancanaria.com/en/",
+      "seriesID": "canaria-50"
+    },
+    {
       "id": 60,
       "name": "70.3 Valencia",
       "date": "2027-04-18",
@@ -533,6 +559,55 @@
       "seriesID": "alcudia-703"
     },
     {
+      "id": 90,
+      "name": "Challenge Cesenatico - 100",
+      "date": "2027-05-09",
+      "distance": "other",
+      "customSwimMeters": 2000,
+      "customBikeKm": 80.0,
+      "customRunKm": 18.0,
+      "organizer": "challenge",
+      "location": "IT - Cesenatico",
+      "websiteURL": "https://challengefamily.com/races/challenge-cesenatico/",
+      "seriesID": "cesenatico-100"
+    },
+    {
+      "id": 91,
+      "name": "Challenge Cesenatico - Sprint",
+      "date": "2027-05-09",
+      "distance": "sprint",
+      "organizer": "challenge",
+      "location": "IT - Cesenatico",
+      "websiteURL": "https://challengefamily.com/races/challenge-cesenatico/",
+      "seriesID": "cesenatico-sprint"
+    },
+    {
+      "id": 92,
+      "name": "Challenge Salou-Costa Daurada - 100",
+      "date": "2027-05-09",
+      "distance": "other",
+      "customSwimMeters": 2000,
+      "customBikeKm": 80.0,
+      "customRunKm": 18.0,
+      "organizer": "challenge",
+      "location": "ES - Salou",
+      "websiteURL": "https://challengefamily.com/races/challenge-salou-costa-daurada/",
+      "seriesID": "salou-100"
+    },
+    {
+      "id": 93,
+      "name": "Challenge Salou-Costa Daurada - Short",
+      "date": "2027-05-09",
+      "distance": "other",
+      "customSwimMeters": 1000,
+      "customBikeKm": 54.0,
+      "customRunKm": 9.0,
+      "organizer": "challenge",
+      "location": "ES - Salou",
+      "websiteURL": "https://challengefamily.com/races/challenge-salou-costa-daurada/",
+      "seriesID": "salou-short"
+    },
+    {
       "id": 62,
       "name": "Lanzarote",
       "date": "2027-05-15",
@@ -544,30 +619,36 @@
     },
     {
       "id": 12,
-      "name": "Šamorín - Standard",
+      "name": "Challenge Šamorín - Standard",
       "date": "2027-05-22",
       "distance": "olympic",
       "organizer": "challenge",
       "location": "SK - Šamorín",
+      "websiteURL": "https://challengefamily.com/races/the-championship/",
       "seriesID": "samorin-standard"
     },
     {
       "id": 16,
-      "name": "Šamorín - Sprint",
+      "name": "Challenge Šamorín - Sprint",
       "date": "2027-05-22",
       "distance": "sprint",
       "organizer": "challenge",
       "location": "SK - Šamorín",
+      "websiteURL": "https://challengefamily.com/races/the-championship/",
       "seriesID": "samorin-sprint"
     },
     {
       "id": 17,
-      "name": "Šamorín - Open 100",
+      "name": "Challenge Šamorín - Open 100",
       "date": "2027-05-23",
-      "distance": "half",
+      "distance": "other",
+      "customSwimMeters": 2000,
+      "customBikeKm": 80.0,
+      "customRunKm": 18.0,
       "organizer": "challenge",
       "location": "SK - Šamorín",
-      "seriesID": "samorin-open100"
+      "websiteURL": "https://challengefamily.com/races/the-championship/",
+      "seriesID": "samorin-open"
     },
     {
       "id": 63,
@@ -578,6 +659,19 @@
       "location": "AT - St. Polten",
       "websiteURL": "https://www.ironman.com/races/im703-st-poelten",
       "seriesID": "polten-703"
+    },
+    {
+      "id": 94,
+      "name": "The Championship",
+      "date": "2027-05-23",
+      "distance": "other",
+      "customSwimMeters": 2000,
+      "customBikeKm": 80.0,
+      "customRunKm": 18.0,
+      "organizer": "challenge",
+      "location": "SK - Šamorín",
+      "websiteURL": "https://challengefamily.com/races/the-championship/",
+      "seriesID": "samorin-championship"
     },
     {
       "id": 64,
@@ -671,6 +765,29 @@
       "seriesID": "westfriesland-703"
     },
     {
+      "id": 95,
+      "name": "Challenge Gdańsk - 100",
+      "date": "2027-06-20",
+      "distance": "other",
+      "customSwimMeters": 2000,
+      "customBikeKm": 80.0,
+      "customRunKm": 18.0,
+      "organizer": "challenge",
+      "location": "PL - Gdańsk",
+      "websiteURL": "https://challengefamily.com/races/challenge-gdansk/",
+      "seriesID": "gdansk-100"
+    },
+    {
+      "id": 96,
+      "name": "Challenge Gdańsk - Sprint",
+      "date": "2027-06-20",
+      "distance": "sprint",
+      "organizer": "challenge",
+      "location": "PL - Gdańsk",
+      "websiteURL": "https://challengefamily.com/races/challenge-gdansk/",
+      "seriesID": "gdansk-sprint"
+    },
+    {
       "id": 71,
       "name": "Les Sables d Olonne-Vendee",
       "date": "2027-06-27",
@@ -701,12 +818,47 @@
       "seriesID": "frankfurt"
     },
     {
+      "id": 97,
+      "name": "Challenge Kaiserwinkl-Walchsee - 100",
+      "date": "2027-06-27",
+      "distance": "other",
+      "customSwimMeters": 2000,
+      "customBikeKm": 80.0,
+      "customRunKm": 18.0,
+      "organizer": "challenge",
+      "location": "AT - Walchsee",
+      "websiteURL": "https://challengefamily.com/races/challenge-kaiserwinkl-walchsee/",
+      "seriesID": "walchsee-100"
+    },
+    {
+      "id": 98,
+      "name": "Challenge Sandefjord - Middle",
+      "date": "2027-06-27",
+      "distance": "half",
+      "organizer": "challenge",
+      "location": "NO - Sandefjord",
+      "websiteURL": "https://challengefamily.com/races/challenge-sandefjord/",
+      "seriesID": "sandefjord-703"
+    },
+    {
+      "id": 99,
+      "name": "Challenge Sandefjord - Standard",
+      "date": "2027-06-27",
+      "distance": "olympic",
+      "organizer": "challenge",
+      "location": "NO - Sandefjord",
+      "websiteURL": "https://challengefamily.com/races/challenge-sandefjord/",
+      "seriesID": "sandefjord-5150"
+    },
+    {
       "id": 15,
-      "name": "Roth",
+      "name": "Datev Challenge Roth",
       "date": "2027-07-04",
       "distance": "ironman",
       "organizer": "challenge",
-      "location": "DE - Roth"
+      "location": "DE - Roth",
+      "websiteURL": "https://challengefamily.com/races/challenge-roth/",
+      "seriesID": "roth"
     },
     {
       "id": 74,
