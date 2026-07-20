@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 15,
-  "updatedAt": "2026-07-17",
-  "nextRaceID": 79,
+  "catalogVersion": 16,
+  "updatedAt": "2026-07-20",
+  "nextRaceID": 88,
   "races": [
     {
       "id": 20,
@@ -46,6 +46,39 @@
       "seriesID": "gdynia-703"
     },
     {
+      "id": 81,
+      "name": "CTP Slovakman Triathlon",
+      "date": "2026-08-01",
+      "distance": "ironman",
+      "organizer": "other",
+      "location": "SK - Piešťany",
+      "websiteURL": "https://www.slovakman.sk/",
+      "seriesID": "slovakman"
+    },
+    {
+      "id": 82,
+      "name": "Slovakman Half Triathlon",
+      "date": "2026-08-01",
+      "distance": "half",
+      "organizer": "other",
+      "location": "SK - Piešťany",
+      "websiteURL": "https://www.slovakman.sk/",
+      "seriesID": "slovakman-703"
+    },
+    {
+      "id": 83,
+      "name": "Slovakman Kolečko",
+      "date": "2026-08-01",
+      "distance": "other",
+      "customSwimMeters": 950,
+      "customBikeKm": 30.0,
+      "customRunKm": 7.0,
+      "organizer": "other",
+      "location": "SK - Piešťany",
+      "websiteURL": "https://www.slovakman.sk/",
+      "seriesID": "slovakman-kolecko"
+    },
+    {
       "id": 25,
       "name": "70.3 Krakow",
       "date": "2026-08-02",
@@ -54,6 +87,19 @@
       "location": "PL - Krakow",
       "websiteURL": "https://www.ironman.com/races/im703-krakow",
       "seriesID": "krakow-703"
+    },
+    {
+      "id": 84,
+      "name": "Jihlavský Triatlon",
+      "date": "2026-08-09",
+      "distance": "other",
+      "customSwimMeters": 650,
+      "customBikeKm": 20.0,
+      "customRunKm": 5.5,
+      "organizer": "other",
+      "location": "Jihlava",
+      "websiteURL": "https://cts.triatlon.cz/Race/Info/8191",
+      "seriesID": "jihlavsky-triatlon"
     },
     {
       "id": 26,
@@ -152,6 +198,19 @@
       "seriesID": "tallinn"
     },
     {
+      "id": 85,
+      "name": "Triatlon Račice 2026",
+      "date": "2026-08-22",
+      "distance": "other",
+      "customSwimMeters": 400,
+      "customBikeKm": 15.0,
+      "customRunKm": 3.0,
+      "organizer": "other",
+      "location": "Račice",
+      "websiteURL": "https://cts.triatlon.cz/Race/Info/8138",
+      "seriesID": "racice"
+    },
+    {
       "id": 35,
       "name": "70.3 Vichy",
       "date": "2026-08-23",
@@ -190,6 +249,39 @@
       "location": "DE - Leipzig",
       "websiteURL": "https://www.ironman.com/races/im703-leipzig",
       "seriesID": "leipzig-703"
+    },
+    {
+      "id": 86,
+      "name": "Triatlon Račice 2026 - AG",
+      "date": "2026-08-23",
+      "distance": "other",
+      "customSwimMeters": 800,
+      "customBikeKm": 30.0,
+      "customRunKm": 7.0,
+      "organizer": "other",
+      "location": "Račice",
+      "websiteURL": "https://cts.triatlon.cz/Race/Info/8223",
+      "seriesID": "racice-ag"
+    },
+    {
+      "id": 79,
+      "name": "Olympijský Hulmen",
+      "date": "2026-08-29",
+      "distance": "olympic",
+      "organizer": "other",
+      "location": "Hulín",
+      "websiteURL": "https://aspothulin.cz/olympijsky-triatlon/",
+      "seriesID": "hulmen-5150"
+    },
+    {
+      "id": 87,
+      "name": "Pilman 2026",
+      "date": "2026-08-29",
+      "distance": "half",
+      "organizer": "other",
+      "location": "Žďár nad Sázavou",
+      "websiteURL": "https://cts.triatlon.cz/Race/Info/8188",
+      "seriesID": "pilman"
     },
     {
       "id": 39,
@@ -290,6 +382,16 @@
       "location": "RS - Belgrade",
       "websiteURL": "https://www.ironman.com/races/im703-belgrade",
       "seriesID": "belgrade-703"
+    },
+    {
+      "id": 80,
+      "name": "CTP DoksyRace",
+      "date": "2026-09-13",
+      "distance": "half",
+      "organizer": "other",
+      "location": "Doksy",
+      "websiteURL": "https://trirace.eu/doksyrace/",
+      "seriesID": "doksy-703"
     },
     {
       "id": 49,
