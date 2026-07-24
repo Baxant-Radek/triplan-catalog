@@ -1,9 +1,67 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 18,
-  "updatedAt": "2026-07-20",
-  "nextRaceID": 100,
+  "catalogVersion": 19,
+  "updatedAt": "2026-07-24",
+  "nextRaceID": 107,
   "races": [
+    {
+      "id": 102,
+      "name": "Challenge Šamorín - Standard",
+      "date": "2026-05-23",
+      "distance": "olympic",
+      "country": "SK",
+      "organizer": "challenge",
+      "location": "Šamorín",
+      "websiteURL": "https://challengefamily.com/races/the-championship/",
+      "seriesID": "samorin-standard"
+    },
+    {
+      "id": 103,
+      "name": "Challenge Šamorín - Sprint",
+      "date": "2026-05-23",
+      "distance": "sprint",
+      "country": "SK",
+      "organizer": "challenge",
+      "location": "Šamorín",
+      "websiteURL": "https://challengefamily.com/races/the-championship/",
+      "seriesID": "samorin-sprint"
+    },
+    {
+      "id": 104,
+      "name": "Challenge Šamorín - Open",
+      "date": "2026-05-24",
+      "distance": "half",
+      "country": "SK",
+      "organizer": "challenge",
+      "location": "Šamorín",
+      "websiteURL": "https://challengefamily.com/races/the-championship/",
+      "seriesID": "samorin-703"
+    },
+    {
+      "id": 100,
+      "name": "Czechman",
+      "date": "2026-06-06",
+      "distance": "half",
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Pardubice",
+      "websiteURL": "https://www.czechman.cz/",
+      "seriesID": "czechman-703"
+    },
+    {
+      "id": 101,
+      "name": "Czechman - Short",
+      "date": "2026-06-07",
+      "distance": "other",
+      "customSwimMeters": 600,
+      "customBikeKm": 26.0,
+      "customRunKm": 6.0,
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Pardubice",
+      "websiteURL": "https://www.czechman.cz/",
+      "seriesID": "czechman-short"
+    },
     {
       "id": 20,
       "name": "Moraviaman",
@@ -12,6 +70,7 @@
       "country": "CZ",
       "organizer": "other",
       "location": "Otrokovice",
+      "websiteURL": "https://www.moraviaman.cz/",
       "seriesID": "moraviaman"
     },
     {
@@ -25,7 +84,30 @@
       "country": "CZ",
       "organizer": "other",
       "location": "Otrokovice",
+      "websiteURL": "https://www.moraviaman.cz/",
       "seriesID": "moraviaman-m50"
+    },
+    {
+      "id": 105,
+      "name": "Žďár - Sprint",
+      "date": "2026-06-28",
+      "distance": "sprint",
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Žďár nad Sázavou",
+      "websiteURL": "https://cts.triatlon.cz/Race/Info/8186",
+      "seriesID": "zdar-sprint"
+    },
+    {
+      "id": 106,
+      "name": "Žďár - Olymp",
+      "date": "2026-06-28",
+      "distance": "olympic",
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Žďár nad Sázavou",
+      "websiteURL": "https://cts.triatlon.cz/Race/Info/8186",
+      "seriesID": "zdar-5150"
     },
     {
       "id": 23,
@@ -307,7 +389,7 @@
       "organizer": "other",
       "location": "Žďár nad Sázavou",
       "websiteURL": "https://cts.triatlon.cz/Race/Info/8188",
-      "seriesID": "pilman"
+      "seriesID": "pilman-703"
     },
     {
       "id": 39,
@@ -560,7 +642,7 @@
       "organizer": "challenge",
       "location": "Gran Canaria",
       "websiteURL": "https://challenge-grancanaria.com/en/",
-      "seriesID": "canaria-100"
+      "seriesID": "canaria-t100"
     },
     {
       "id": 89,
@@ -574,7 +656,7 @@
       "organizer": "challenge",
       "location": "Gran Canaria",
       "websiteURL": "https://challenge-grancanaria.com/en/",
-      "seriesID": "canaria-50"
+      "seriesID": "canaria-t50"
     },
     {
       "id": 60,
@@ -606,6 +688,7 @@
       "country": "ES",
       "organizer": "ironman",
       "location": "Alcúdia",
+      "websiteURL": "https://www.ironman.com/races/im703-mallorca",
       "seriesID": "alcudia-703"
     },
     {
@@ -617,7 +700,7 @@
       "organizer": "challenge",
       "location": "Cesenatico",
       "websiteURL": "https://challengefamily.com/races/challenge-cesenatico/",
-      "seriesID": "cesenatico-100"
+      "seriesID": "cesenatico-t100"
     },
     {
       "id": 91,
@@ -639,7 +722,7 @@
       "organizer": "challenge",
       "location": "Salou",
       "websiteURL": "https://challengefamily.com/races/challenge-salou-costa-daurada/",
-      "seriesID": "salou-100"
+      "seriesID": "salou-t100"
     },
     {
       "id": 93,
@@ -697,7 +780,7 @@
       "organizer": "challenge",
       "location": "Šamorín",
       "websiteURL": "https://challengefamily.com/races/the-championship/",
-      "seriesID": "samorin-open"
+      "seriesID": "samorin-t100"
     },
     {
       "id": 63,
@@ -719,7 +802,7 @@
       "organizer": "challenge",
       "location": "Šamorín",
       "websiteURL": "https://challengefamily.com/races/the-championship/",
-      "seriesID": "samorin-championship"
+      "seriesID": "samorin-t100"
     },
     {
       "id": 64,
@@ -740,7 +823,8 @@
       "country": "CZ",
       "organizer": "other",
       "location": "Pardubice",
-      "seriesID": "czechman"
+      "websiteURL": "https://www.czechman.cz/",
+      "seriesID": "czechman-703"
     },
     {
       "id": 14,
@@ -753,6 +837,7 @@
       "country": "CZ",
       "organizer": "other",
       "location": "Pardubice",
+      "websiteURL": "https://www.czechman.cz/",
       "seriesID": "czechman-short"
     },
     {
@@ -830,7 +915,7 @@
       "organizer": "challenge",
       "location": "Gdańsk",
       "websiteURL": "https://challengefamily.com/races/challenge-gdansk/",
-      "seriesID": "gdansk-100"
+      "seriesID": "gdansk-t100"
     },
     {
       "id": 96,
@@ -885,7 +970,7 @@
       "organizer": "challenge",
       "location": "Walchsee",
       "websiteURL": "https://challengefamily.com/races/challenge-kaiserwinkl-walchsee/",
-      "seriesID": "walchsee-100"
+      "seriesID": "walchsee-t100"
     },
     {
       "id": 98,
@@ -977,12 +1062,13 @@
     },
     {
       "id": 18,
-      "name": "Zell am See - Kaprun",
+      "name": "70.3 Zell am See - Kaprun",
       "date": "2027-08-29",
       "distance": "half",
       "country": "AT",
       "organizer": "ironman",
       "location": "Zell am See",
+      "websiteURL": "https://www.ironman.com/races/im703-zell-am-see",
       "seriesID": "zell-703"
     },
     {
@@ -992,6 +1078,8 @@
       "distance": "ironman",
       "country": "CZ",
       "organizer": "other",
+      "location": "Děčín",
+      "websiteURL": "https://www.czxtri.com/",
       "seriesID": "winterman"
     }
   ]
