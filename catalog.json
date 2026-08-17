@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 20,
-  "updatedAt": "2026-07-30",
-  "nextRaceID": 136,
+  "catalogVersion": 21,
+  "updatedAt": "2026-08-17",
+  "nextRaceID": 148,
   "races": [
     {
       "id": 102,
@@ -472,6 +472,17 @@
       "location": "DK - Copenhagen",
       "websiteURL": "https://www.ironman.com/races/im-copenhagen",
       "seriesID": "copenhagen"
+    },
+    {
+      "id": 143,
+      "name": "IM Kalmar",
+      "date": "2026-08-21",
+      "distance": "ironman",
+      "country": "SE",
+      "organizer": "ironman",
+      "location": "Kalmar",
+      "websiteURL": "https://www.ironman.com/races/im-kalmar",
+      "seriesID": "kalmar"
     },
     {
       "id": 34,
@@ -978,6 +989,17 @@
       "seriesID": "cascais-703"
     },
     {
+      "id": 138,
+      "name": "IM Portugal-Cascais",
+      "date": "2026-10-17",
+      "distance": "ironman",
+      "country": "PT",
+      "organizer": "ironman",
+      "location": "Cascais",
+      "websiteURL": "https://www.ironman.com/races/im-cascais",
+      "seriesID": "cascais"
+    },
+    {
       "id": 56,
       "name": "70.3 Poreč",
       "date": "2026-10-18",
@@ -1020,6 +1042,17 @@
       "location": "Belek",
       "websiteURL": "https://www.ironman.com/races/im703-turkey",
       "seriesID": "belek-703"
+    },
+    {
+      "id": 139,
+      "name": "70.3 Vilamoura-Algarve",
+      "date": "2027-04-03",
+      "distance": "half",
+      "country": "PT",
+      "organizer": "ironman",
+      "location": "Vilamoura",
+      "websiteURL": "https://www.ironman.com/races/im703-vilamoura-algarve",
+      "seriesID": "vilamoura-703"
     },
     {
       "id": 88,
@@ -1193,6 +1226,17 @@
       "seriesID": "samorin-t100"
     },
     {
+      "id": 140,
+      "name": "70.3 Aix-en-Provence",
+      "date": "2027-05-23",
+      "distance": "half",
+      "country": "FR",
+      "organizer": "ironman",
+      "location": "Aix en Provence",
+      "websiteURL": "https://www.ironman.com/races/im703-aix-en-provence",
+      "seriesID": "aix-703"
+    },
+    {
       "id": 64,
       "name": "70.3 Alghero",
       "date": "2027-05-30",
@@ -1202,31 +1246,6 @@
       "location": "Alghero",
       "websiteURL": "https://www.ironman.com/races/im703-alghero",
       "seriesID": "alghero-703"
-    },
-    {
-      "id": 13,
-      "name": "Czechman",
-      "date": "2027-06-05",
-      "distance": "half",
-      "country": "CZ",
-      "organizer": "other",
-      "location": "Pardubice",
-      "websiteURL": "https://www.czechman.cz/",
-      "seriesID": "czechman-703"
-    },
-    {
-      "id": 14,
-      "name": "Czechman - Short",
-      "date": "2027-06-06",
-      "distance": "other",
-      "customSwimMeters": 600,
-      "customBikeKm": 26.0,
-      "customRunKm": 6.0,
-      "country": "CZ",
-      "organizer": "other",
-      "location": "Pardubice",
-      "websiteURL": "https://www.czechman.cz/",
-      "seriesID": "czechman-short"
     },
     {
       "id": 65,
@@ -1273,6 +1292,31 @@
       "seriesID": "bolton-703"
     },
     {
+      "id": 13,
+      "name": "Czechman",
+      "date": "2027-06-12",
+      "distance": "half",
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Pardubice",
+      "websiteURL": "https://www.czechman.cz/",
+      "seriesID": "czechman-703"
+    },
+    {
+      "id": 14,
+      "name": "Czechman - Short",
+      "date": "2027-06-13",
+      "distance": "other",
+      "customSwimMeters": 600,
+      "customBikeKm": 26.0,
+      "customRunKm": 6.0,
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Pardubice",
+      "websiteURL": "https://www.czechman.cz/",
+      "seriesID": "czechman-short"
+    },
+    {
       "id": 69,
       "name": "Kaernten-Klagenfurt, Austria",
       "date": "2027-06-13",
@@ -1315,6 +1359,31 @@
       "location": "Gdańsk",
       "websiteURL": "https://challengefamily.com/races/challenge-gdansk/",
       "seriesID": "gdansk-sprint"
+    },
+    {
+      "id": 136,
+      "name": "Moraviaman",
+      "date": "2027-06-26",
+      "distance": "ironman",
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Otrokovice",
+      "websiteURL": "https://www.moraviaman.cz/",
+      "seriesID": "moraviaman"
+    },
+    {
+      "id": 137,
+      "name": "Moraviaman - M50",
+      "date": "2027-06-26",
+      "distance": "other",
+      "customSwimMeters": 900,
+      "customBikeKm": 36.0,
+      "customRunKm": 10.4,
+      "country": "CZ",
+      "organizer": "other",
+      "location": "Otrokovice",
+      "websiteURL": "https://www.moraviaman.cz/",
+      "seriesID": "moraviaman-m50"
     },
     {
       "id": 71,
@@ -1449,6 +1518,39 @@
       "seriesID": "vitoria-703"
     },
     {
+      "id": 141,
+      "name": "70.3 Luxembourg",
+      "date": "2027-07-11",
+      "distance": "half",
+      "country": "LU",
+      "organizer": "ironman",
+      "location": "Moselle",
+      "websiteURL": "https://www.ironman.com/races/im703-luxembourg",
+      "seriesID": "luxembourg-703"
+    },
+    {
+      "id": 142,
+      "name": "IM Leeds",
+      "date": "2027-08-15",
+      "distance": "ironman",
+      "country": "GB",
+      "organizer": "ironman",
+      "location": "Leeds",
+      "websiteURL": "https://www.ironman.com/races/im-leeds",
+      "seriesID": "leeds"
+    },
+    {
+      "id": 144,
+      "name": "IM Copenhagen",
+      "date": "2027-08-22",
+      "distance": "ironman",
+      "country": "DK",
+      "organizer": "ironman",
+      "location": "DK - Copenhagen",
+      "websiteURL": "https://www.ironman.com/races/im-copenhagen",
+      "seriesID": "copenhagen"
+    },
+    {
       "id": 18,
       "name": "70.3 Zell am See - Kaprun",
       "date": "2027-08-29",
@@ -1458,6 +1560,39 @@
       "location": "Zell am See",
       "websiteURL": "https://www.ironman.com/races/im703-zell-am-see",
       "seriesID": "zell-703"
+    },
+    {
+      "id": 145,
+      "name": "70.3 Duisburg",
+      "date": "2027-08-29",
+      "distance": "half",
+      "country": "DE",
+      "organizer": "ironman",
+      "location": "Duisburg",
+      "websiteURL": "https://www.ironman.com/races/im703-duisburg",
+      "seriesID": "duisburg-703"
+    },
+    {
+      "id": 146,
+      "name": "IM France",
+      "date": "2027-09-12",
+      "distance": "ironman",
+      "country": "FR",
+      "organizer": "ironman",
+      "location": "Nice",
+      "websiteURL": "https://www.ironman.com/races/im-france",
+      "seriesID": "france"
+    },
+    {
+      "id": 147,
+      "name": "70.3 Nice",
+      "date": "2027-09-12",
+      "distance": "ironman",
+      "country": "FR",
+      "organizer": "ironman",
+      "location": "Nice",
+      "websiteURL": "https://www.ironman.com/races/im-france",
+      "seriesID": "nice-703"
     },
     {
       "id": 19,
